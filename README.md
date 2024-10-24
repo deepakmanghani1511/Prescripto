@@ -28,7 +28,7 @@ This is an ongoing project. ** I have developed till frontend only.**
   npm install -D tailwindcss postcss autoprefixer
   npx tailwindcss init -p 
 
-  Write in tailwind.config.js
+11.  Write in tailwind.config.js
 
     /** @type {import('tailwindcss').Config} */
 export default {
