@@ -61,7 +61,7 @@
 
 - Monitor the latest bookings and the full list of doctors.
 
-Update doctor availability status.
+- Update doctor availability status.
 
 
 # API Highlights
@@ -72,7 +72,7 @@ Update doctor availability status.
 
 # **How to Setup & Run this Project**
 
-Install NodeJs ( Ignore If Already Installed)
+**Install NodeJs ( Ignore If Already Installed)**
 
  1. Visit the official Node.js website i.e) https://nodejs.org/en/download/
 
@@ -86,25 +86,25 @@ Install NodeJs ( Ignore If Already Installed)
  #      **—First Run Backend then Frontend & Admin—**
  
 # **Steps To Setup Backend Of The Project**
-  1. OpenProject Folder In VS Code
+  1. Open Project Folder In VS Code
  
-  2. OpenIntegrated Terminal
+  2. Open Integrated Terminal
       - Right Click on ‘backend’ > Select “Open In Integrated Terminal”
   
   3. Type “npm install” and press Enter and Wait for Installation to be completed (requires Internet)
+
+    npm install
 
   4. Setup Cloudinary for file storage.
      - Create account and login to: https://cloudinary.com/
  
      - Then go to Dashboard
     
-     - Copy and paste the Cloud Name, API Key, And Secret Key in the
-   
-      backend / .env file:
+     - Copy and paste the Cloud Name, API Key, And Secret Key in the backend / .env file:
 
   5. Setup The MongoDB
    
-     -  Open this link:https://www.mongodb.com/cloud/atlas/register
+     -  Open this link: https://www.mongodb.com/cloud/atlas/register
    
      -  After that Sign Up on the website.
    
@@ -157,30 +157,29 @@ Install NodeJs ( Ignore If Already Installed)
 
  1. Right Click on ‘frontend’ folder > Select “Open In Integrated Terminal”
 
-        npm install
-
  2. Type “npm install” and press Enter and Wait for Installation to be completed
  (requires Internet)
 
+        npm install
+ 
+ 4. After that type “npm run dev” in terminal
+
         npm run dev
  
- 3. After that type “npm run dev” in terminal
- 
- 4. Now you will see the ‘http://localhost:5173’ link in that terminal. Open that link
- in the browser.
+ 6. Now you will see the ‘http://localhost:5173’ link in that terminal. Open that link in the browser.
 
 
 # **Steps To Run Backend of The Project**
 
  1. Right Click on ‘admin’ folder > Select “Open In Integrated Terminal”
-
-        npm install
  
  2. Type “npm install” and press Enter and Wait for Installation to be
  completed (requires Internet)
 
-        npm run dev
+        npm install
  
  3. After that type “npm run dev” in terminal
+
+        npm run dev
     
  4. Now you will see the ‘http://localhost:5174’ link in that terminal. Open that link in the browser.
