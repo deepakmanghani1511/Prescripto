@@ -80,19 +80,29 @@ Install NodeJs ( Ignore If Already Installed)
 5. Setup The MongoDB
    
   a. Open this link:https://www.mongodb.com/cloud/atlas/register
+  
   b. After that Sign Up on the website.
+  
   c. Click on New Project Option
+  
   d. After Creating Project go to Database Section & Build a database
+  
   e. Select M0 & Your Region & Create Database
+  
   f. Setup Username & Password & Create User
       Note: Do not use ‘@’ symbol in the password
+  
   g. NowClick on Finish & Close
+  
   h. Whitelist IP0.0.0.0&ClickonAddEntry
+  
   i. NowClickonConnect
+  
   j. NowSelectCompassOption
+  
   k. AndCopytheConnectionString
-  i. And Paste It in the backend / .env file and replace the <password> with
-  the password you set previously in 4.F & save changes.
+  
+  i. And Paste It in the backend / .env file and replace the <password> with the password you set previously in 4.F & save changes.
 
 7. Setup Stripe ( Optional )
    
