@@ -17,58 +17,58 @@
 
 # **General Features**
 
-Neat and Clean UI: A visually appealing, user-friendly design.
+- Neat and Clean UI: A visually appealing, user-friendly design.
 
-Responsive Design: Fully optimized for mobile, tablet, and desktop devices.
+- Responsive Design: Fully optimized for mobile, tablet, and desktop devices.
 
-Easy to Use: Intuitive navigation and workflow for all users.
+- Easy to Use: Intuitive navigation and workflow for all users.
 
-Secure Payments: Integrated with Razorpay for hassle-free online transactions.
+- Secure Payments: Integrated with Razorpay for hassle-free online transactions.
 
 # **Role-Based Functionality**
 
 # 1. Patient Features:
 
-Register and log in securely.
+- Register and log in securely.
 
-Search for doctors by specialties like General Physician, Neurologist, Psychologist, Psychiatrist, etc.
+- Search for doctors by specialties like General Physician, Neurologist, Psychologist, Psychiatrist, etc.
 
-Book appointments and manage existing bookings.
+- Book appointments and manage existing bookings.
 
-View detailed appointment history.
+- View detailed appointment history.
 
-Update profile information, including photo, contact details (email, phone, address), gender, and age.
+- Update profile information, including photo, contact details (email, phone, address), gender, and age.
 
 # 2. Doctor Features:
 
-Log in to a personalized dashboard.
+- Log in to a personalized dashboard.
 
-View and manage appointments and patient details.
+- View and manage appointments and patient details.
 
-Monitor total earnings and appointment history.
+- Monitor total earnings and appointment history.
 
-Cancel or confirm appointments.
+- Cancel or confirm appointments.
 
-Update profile details such as experience, specialization, fees, address, and availability.
+- Update profile details such as experience, specialization, fees, address, and availability.
 
 # 3. Admin Features:
 
-Secure admin login.
+- Secure admin login.
 
-Add new doctors to the system.
+- Add new doctors to the system.
 
-View and manage all appointments.
+- View and manage all appointments.
 
-Monitor the latest bookings and the full list of doctors.
+- Monitor the latest bookings and the full list of doctors.
 
 Update doctor availability status.
 
 
 # API Highlights
 
-APIs for handling patient, doctor, and admin functionalities.
+- APIs for handling patient, doctor, and admin functionalities.
 
-Admin-specific APIs for login, managing doctors, and monitoring appointments.
+- Admin-specific APIs for login, managing doctors, and monitoring appointments.
 
 # **How to Setup & Run this Project**
 
@@ -94,57 +94,57 @@ Install NodeJs ( Ignore If Already Installed)
   3. Type “npm install” and press Enter and Wait for Installation to be completed (requires Internet)
 
   4. Setup Cloudinary for file storage.
-   Create account and login to: https://cloudinary.com/
+   - Create account and login to: https://cloudinary.com/
 
-   The go to Dashboard
+   - Then go to Dashboard
    
-   Copy and paste the Cloud Name, API Key, And Secret Key in the
+   - Copy and paste the Cloud Name, API Key, And Secret Key in the
   
-   backend / .env file:
+     backend / .env file:
 
   5. Setup The MongoDB
    
-   a. Open this link:https://www.mongodb.com/cloud/atlas/register
+   -  Open this link:https://www.mongodb.com/cloud/atlas/register
    
-   b. After that Sign Up on the website.
+   - After that Sign Up on the website.
    
-   c. Click on New Project Option
+   - Click on New Project Option
    
-   d. After Creating Project go to Database Section & Build a database
+   -  After Creating Project go to Database Section & Build a database
    
-   e. Select M0 & Your Region & Create Database
+   -  Select M0 & Your Region & Create Database
    
-   f. Setup Username & Password & Create User
+   -  Setup Username & Password & Create User
        Note: Do not use ‘@’ symbol in the password
    
-   g. NowClick on Finish & Close
+   -  NowClick on Finish & Close
    
-   h. Whitelist IP0.0.0.0&ClickonAddEntry
+   -  Whitelist IP0.0.0.0&ClickonAddEntry
    
-   i. NowClickonConnect
+   -  NowClickonConnect
    
-   j. NowSelectCompassOption
+   -  NowSelectCompassOption
    
-   k. AndCopytheConnectionString
+   -  AndCopytheConnectionString
    
-   i. And Paste It in the backend / .env file and replace the <password> with the password you set previously in 4.F & save changes.
+   -  And Paste It in the backend / .env file and replace the <password> with the password you set previously in 4.F & save changes.
 
  6. Setup Stripe ( Optional )
     
-   a. create a stripe account from here
+   -  create a stripe account from here
    
-   b. After creating account get the Stripe Secret Key from dashboard
+   -  After creating account get the Stripe Secret Key from dashboard
    
-   c. Paste the Secret Key in backend / .env file and save file
+   -  Paste the Secret Key in backend / .env file and save file
  
  
  7. Setup Razorpay( Optional )
      
-   a. create a razorpay account from here
+   -  create a razorpay account from here
  
-   b. After creating account get the Razorpay Secret Key & Razorpay Key ID from dashboard    
+   -  After creating account get the Razorpay Secret Key & Razorpay Key ID from dashboard    
    
-   c. Paste the Secret Key in backend / .env file and save file
+   -  Paste the Secret Key in backend / .env file and save file
  
  
  8. To Run Backend use npm run server command in Integrated Terminal
