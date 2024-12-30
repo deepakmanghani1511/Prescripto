@@ -1,4 +1,4 @@
-**Prescripto - Full-Stack Doctor Appointment Booking Website**
+# **Prescripto - Full-Stack Doctor Appointment Booking Website**
 
 **Prescripto** is a streamlined online doctor appointment booking system designed to enhance patient-doctor interaction. It allows patients to effortlessly schedule and manage appointments, while doctors can oversee bookings and update their profiles. With its intuitive interface, secure payment integration, and smooth functionality, it ensures a hassle-free and efficient healthcare experience for all users.
 
@@ -39,7 +39,7 @@ Monitor total earnings and appointment history.
 Cancel or confirm appointments.
 Update profile details such as experience, specialization, fees, address, and availability.
 
-3. Admin Features:
+# 3. Admin Features:
 
 Secure admin login.
 Add new doctors to the system.
@@ -54,7 +54,7 @@ Admin-specific APIs for login, managing doctors, and monitoring appointments.
 
 
 
-**How to Setup & Run this Project**
+# **How to Setup & Run this Project**
 
 Install NodeJs ( Ignore If Already Installed)
  1. Visit the official Node.js website i.e) https://nodejs.org/en/download/
@@ -63,14 +63,14 @@ Install NodeJs ( Ignore If Already Installed)
  4. Follow the prompts in the installer.
 
 
-       **—First Run Backend then Frontend & Admin—**
+ #      **—First Run Backend then Frontend & Admin—**
  StepsToSetup Backend Of The Project
   1. OpenProject Folder In VS Code
   2. OpenIntegrated Terminal
       - Right Click on ‘backend’ > Select “Open In Integrated Terminal”
   3. Type “npm install” and press Enter and Wait for Installation to be completed (requires Internet)
 
-5. Setup Cloudinary for file storage.
+4. Setup Cloudinary for file storage.
   Create account and login to: https://cloudinary.com/
   The go to Dashboard
   Copy and paste the Cloud Name, API Key, And Secret Key in the
@@ -108,7 +108,7 @@ Install NodeJs ( Ignore If Already Installed)
  Running in the background terminal
 
 
-**Steps To Run Frontend of The Project**
+# **Steps To Run Frontend of The Project**
 
  1. Right Click on ‘frontend’ folder > Select “Open In Integrated Terminal”
  2. Type “npm install” and press Enter and Wait for Installation to be completed
@@ -118,7 +118,7 @@ Install NodeJs ( Ignore If Already Installed)
  in the browser.
 
 
-**Steps To Run Backend of The Project**
+# **Steps To Run Backend of The Project**
 
  1. Right Click on ‘admin’ folder > Select “Open In Integrated Terminal”
  2. Type “npm install” and press Enter and Wait for Installation to be
