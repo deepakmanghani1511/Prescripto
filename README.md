@@ -48,7 +48,7 @@ Monitor the latest bookings and the full list of doctors.
 Update doctor availability status.
 
 
-# **API Highlights**
+# API Highlights
 APIs for handling patient, doctor, and admin functionalities.
 Admin-specific APIs for login, managing doctors, and monitoring appointments.
 
