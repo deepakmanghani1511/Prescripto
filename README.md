@@ -164,7 +164,7 @@
 
          npm run dev
  
-  -  Now you will see the ‘http://localhost:5173’ link in that terminal. Open that link in the browser.
+  -  Now you will see this link in that terminal. Open that link in the browser.
 
          http://localhost:5173
 
@@ -181,6 +181,6 @@
 
         npm run dev
     
-  - Now you will see the ‘http://localhost:5174’ link in that terminal. Open that link in the browser.
+  - Now you will see this link in that terminal. Open that link in the browser.
 
         http://localhost:5173
