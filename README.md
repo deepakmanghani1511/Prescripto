@@ -169,7 +169,7 @@
          http://localhost:5173
 
 
-# **Steps To Run Backend of The Project**
+# **Steps To Run Admin Pannel of The Project**
 
   -  Right Click on ‘admin’ folder > Select “Open In Integrated Terminal”
  
