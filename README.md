@@ -104,9 +104,9 @@ Install NodeJs ( Ignore If Already Installed)
 
 8. To Run Backend use npm run server command in Integrated Terminal
 
- >>> Before Running Frontend or Admin Projects make sure Backend is
+_Before Running Frontend or Admin Projects make sure Backend is
  Running in the background terminal
-
+_
 
 # **Steps To Run Frontend of The Project**
 
