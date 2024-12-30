@@ -64,7 +64,8 @@ Install NodeJs ( Ignore If Already Installed)
 
 
  #      **—First Run Backend then Frontend & Admin—**
- StepsToSetup Backend Of The Project
+ 
+# **Steps To Setup Backend Of The Project**
   1. OpenProject Folder In VS Code
   2. OpenIntegrated Terminal
       - Right Click on ‘backend’ > Select “Open In Integrated Terminal”
