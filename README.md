@@ -94,25 +94,25 @@ Install NodeJs ( Ignore If Already Installed)
   3. Type “npm install” and press Enter and Wait for Installation to be completed (requires Internet)
 
   4. Setup Cloudinary for file storage.
-   - Create account and login to: https://cloudinary.com/
-
-   - Then go to Dashboard
+     - Create account and login to: https://cloudinary.com/
+ 
+     - Then go to Dashboard
+    
+     - Copy and paste the Cloud Name, API Key, And Secret Key in the
    
-   - Copy and paste the Cloud Name, API Key, And Secret Key in the
-  
-     backend / .env file:
+      backend / .env file:
 
   5. Setup The MongoDB
    
-   -  Open this link:https://www.mongodb.com/cloud/atlas/register
+     -  Open this link:https://www.mongodb.com/cloud/atlas/register
    
-   - After that Sign Up on the website.
+     - After that Sign Up on the website.
    
-   - Click on New Project Option
+     - Click on New Project Option
    
-   -  After Creating Project go to Database Section & Build a database
+     -  After Creating Project go to Database Section & Build a database
    
-   -  Select M0 & Your Region & Create Database
+    -  Select M0 & Your Region & Create Database
    
    -  Setup Username & Password & Create User
        Note: Do not use ‘@’ symbol in the password
