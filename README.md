@@ -4,13 +4,13 @@
 
 # **Key Technologies**
 
-Frontend: React.js with Vite and Tailwind CSS for fast and responsive UI development.
+- Frontend: React.js with Vite and Tailwind CSS for fast and responsive UI development.
 
-Backend: Node.js with Express.js for secure and efficient API handling.
+- Backend: Node.js with Express.js for secure and efficient API handling.
 
-Database: MongoDB for robust and scalable data storage.
+- Database: MongoDB for robust and scalable data storage.
 
-Payment Integration: Razorpay for seamless and secure payment processing.
+- Payment Integration: Razorpay for seamless and secure payment processing.
 
 
 # **Features**
