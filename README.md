@@ -162,9 +162,11 @@
  
   -  After that type “npm run dev” in terminal
 
-        npm run dev
+         npm run dev
  
   -  Now you will see the ‘http://localhost:5173’ link in that terminal. Open that link in the browser.
+
+         http://localhost:5173
 
 
 # **Steps To Run Backend of The Project**
@@ -180,3 +182,5 @@
         npm run dev
     
   - Now you will see the ‘http://localhost:5174’ link in that terminal. Open that link in the browser.
+
+        http://localhost:5173
