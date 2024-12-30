@@ -78,6 +78,7 @@ Install NodeJs ( Ignore If Already Installed)
   backend / .env file:
 
 5. Setup The MongoDB
+   
   a. Open this link:https://www.mongodb.com/cloud/atlas/register
   b. After that Sign Up on the website.
   c. Click on New Project Option
@@ -93,17 +94,20 @@ Install NodeJs ( Ignore If Already Installed)
   i. And Paste It in the backend / .env file and replace the <password> with
   the password you set previously in 4.F & save changes.
 
-6. Setup Stripe ( Optional )
+7. Setup Stripe ( Optional )
+   
   a. create a stripe account from here
   b. After creating account get the Stripe Secret Key from dashboard
   c. Paste the Secret Key in backend / .env file and save file
 
-7. Setup Razorpay( Optional )
+9. Setup Razorpay( Optional )
+    
   a. create a razorpay account from here
   b. After creating account get the Razorpay Secret Key & Razorpay Key ID from dashboard    
   c. Paste the Secret Key in backend / .env file and save file
 
-8. To Run Backend use npm run server command in Integrated Terminal
+10. To Run Backend use npm run server command in Integrated Terminal
+
 
 **Before Running Frontend or Admin Projects make sure Backend is
  Running in the background terminal**
