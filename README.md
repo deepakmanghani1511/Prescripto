@@ -2,7 +2,7 @@
 
 **Prescripto** is a streamlined online doctor appointment booking system designed to enhance patient-doctor interaction. It allows patients to effortlessly schedule and manage appointments, while doctors can oversee bookings and update their profiles. With its intuitive interface, secure payment integration, and smooth functionality, it ensures a hassle-free and efficient healthcare experience for all users.
 
-**Key Technologies**
+# **Key Technologies**
 
 Frontend: React.js with Vite and Tailwind CSS for fast and responsive UI development.
 
@@ -13,16 +13,16 @@ Database: MongoDB for robust and scalable data storage.
 Payment Integration: Razorpay for seamless and secure payment processing.
 
 
-**Features**
+# **Features**
 
-**General Features**
+# **General Features**
 
 Neat and Clean UI: A visually appealing, user-friendly design.
 Responsive Design: Fully optimized for mobile, tablet, and desktop devices.
 Easy to Use: Intuitive navigation and workflow for all users.
 Secure Payments: Integrated with Razorpay for hassle-free online transactions.
 
-**Role-Based Functionality**
+# **Role-Based Functionality**
 # 1. Patient Features:
 
 Register and log in securely.
@@ -48,7 +48,7 @@ Monitor the latest bookings and the full list of doctors.
 Update doctor availability status.
 
 
-**API Highlights**
+# **API Highlights**
 APIs for handling patient, doctor, and admin functionalities.
 Admin-specific APIs for login, managing doctors, and monitoring appointments.
 
