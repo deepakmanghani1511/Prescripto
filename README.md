@@ -106,46 +106,46 @@ Install NodeJs ( Ignore If Already Installed)
    
      -  Open this link:https://www.mongodb.com/cloud/atlas/register
    
-     - After that Sign Up on the website.
+     -  After that Sign Up on the website.
    
-     - Click on New Project Option
+     -  Click on New Project Option
    
      -  After Creating Project go to Database Section & Build a database
    
-    -  Select M0 & Your Region & Create Database
+     -  Select M0 & Your Region & Create Database
    
-   -  Setup Username & Password & Create User
-       Note: Do not use ‘@’ symbol in the password
+     -  Setup Username & Password & Create User
+        Note: Do not use ‘@’ symbol in the password
    
-   -  NowClick on Finish & Close
-   
-   -  Whitelist IP0.0.0.0&ClickonAddEntry
-   
-   -  NowClickonConnect
-   
-   -  NowSelectCompassOption
-   
-   -  AndCopytheConnectionString
-   
-   -  And Paste It in the backend / .env file and replace the <password> with the password you set previously in 4.F & save changes.
+     -  Now Click on Finish & Close
+     
+     -  White list IP 0.0.0.0 & Click on Add Entry
+     
+     -  Now Click on Connect
+     
+     -  Now Select Compass Option
+     
+     -  And Copy the Connection String
+     
+     -  And Paste It in the backend / .env file and replace the <password> with the password you set previously in 4.F & save changes.
 
  6. Setup Stripe ( Optional )
     
-   -  create a stripe account from here
-   
-   -  After creating account get the Stripe Secret Key from dashboard
-   
-   -  Paste the Secret Key in backend / .env file and save file
- 
+    -  Create a stripe account from here
+    
+    -  After creating account get the Stripe Secret Key from dashboard
+    
+    -  Paste the Secret Key in backend / .env file and save file
+  
  
  7. Setup Razorpay( Optional )
      
-   -  create a razorpay account from here
- 
-   -  After creating account get the Razorpay Secret Key & Razorpay Key ID from dashboard    
-   
-   -  Paste the Secret Key in backend / .env file and save file
- 
+    -  Create a razorpay account from here
+  
+    -  After creating account get the Razorpay Secret Key & Razorpay Key ID from dashboard    
+    
+    -  Paste the Secret Key in backend / .env file and save file
+  
  
  8. To Run Backend use npm run server command in Integrated Terminal
 
@@ -157,8 +157,12 @@ Install NodeJs ( Ignore If Already Installed)
 
  1. Right Click on ‘frontend’ folder > Select “Open In Integrated Terminal”
 
+        npm install
+
  2. Type “npm install” and press Enter and Wait for Installation to be completed
  (requires Internet)
+
+        npm run dev
  
  3. After that type “npm run dev” in terminal
  
@@ -169,9 +173,13 @@ Install NodeJs ( Ignore If Already Installed)
 # **Steps To Run Backend of The Project**
 
  1. Right Click on ‘admin’ folder > Select “Open In Integrated Terminal”
+
+        npm install
  
  2. Type “npm install” and press Enter and Wait for Installation to be
  completed (requires Internet)
+
+        npm run dev
  
  3. After that type “npm run dev” in terminal
     
