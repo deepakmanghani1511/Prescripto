@@ -129,7 +129,7 @@
      
      -  And Paste It in the backend / .env file and replace the <password> with the password you set previously in 4.F & save changes.
 
- 6. Setup Stripe ( Optional )
+  6. Setup Stripe ( Optional )
     
     -  Create a stripe account from here
     
@@ -138,7 +138,7 @@
     -  Paste the Secret Key in backend / .env file and save file
   
  
- 7. Setup Razorpay( Optional )
+  7. Setup Razorpay ( Optional )
      
     -  Create a razorpay account from here
   
@@ -147,7 +147,7 @@
     -  Paste the Secret Key in backend / .env file and save file
   
  
- 8. To Run Backend use npm run server command in Integrated Terminal
+  8. To Run Backend use npm run server command in Integrated Terminal
 
 
 **Before Running Frontend or Admin Projects make sure Backend is Running in the background terminal**
@@ -167,7 +167,7 @@
   -  Now you will see this below link in that terminal. Open that link in the browser.
 
          http://localhost:5173
-
+ 
 
 # **Steps To Run Admin Pannel of The Project**
 
