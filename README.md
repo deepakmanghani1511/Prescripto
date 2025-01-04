@@ -129,7 +129,7 @@
      
      -  And Paste It in the backend / .env file and replace the <password> with the password you set previously in 4.F & save changes.
 
-  6. Setup Stripe ( Optional )
+ 6. Setup Stripe ( Optional )
     
     -  Create a stripe account from here
     
@@ -138,7 +138,7 @@
     -  Paste the Secret Key in backend / .env file and save file
   
  
-  7. Setup Razorpay ( Optional )
+ 7. Setup Razorpay ( Optional )
      
     -  Create a razorpay account from here
   
